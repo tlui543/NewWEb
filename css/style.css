@@ -9,3 +9,19 @@ h1 { color: #B0C4DE;
   text-align: center;
   text-shadow: 0 1px 1px #fff;
 }
+
+
+body {
+border-style: double;
+}
+
+
+h2 {
+   font-family: 'DatalegreyaDot';
+   font-size: 90px;
+   line-height: 85px;
+   font-weight: normal;
+   margin-bottom: 0px;
+   margin-top: 40px;
+   text-align: left;
+}
